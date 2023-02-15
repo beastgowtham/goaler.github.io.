@@ -1,0 +1,207 @@
+
+body{
+    min-height: 100vh;
+}
+.HEADER-CONTAINER{
+    font-size: calc(2000rem+4.5vw);
+    }
+    .text-container{
+        font-size: calc(2000rem+4.5vw);
+    } 
+    
+
+h1{
+position: relative;
+width: 383px;
+height: 120px;
+left: 965px;
+top: 98px;
+}
+.text-primary1{
+width: 68px;
+height: 120px;
+font-family: 'Lato';
+font-style: italic;
+font-weight: 500;
+font-size: 100px;
+line-height: 120px;
+text-align: center;
+color: #FF0000;
+}
+.text-primary2{
+width: 75px;
+height: 120px;
+font-family: 'Lato';
+font-style: italic;
+font-weight: 500;
+font-size: 100px;
+line-height: 120px;
+text-align: center;
+color: #FFE600;
+}
+.text-primary3{
+width: 64px;
+height: 120px;
+font-family: 'Lato';
+font-style: italic;
+font-weight: 500;
+font-size: 100px;
+line-height: 120px;
+text-align: center;
+color: #15FF00;
+}
+.text-primary4{
+width: 48px;
+height: 120px;
+font-family: 'Lato';
+font-style: italic;
+font-weight: 500;
+font-size: 100px;
+line-height: 120px;
+text-align: center;
+color: #00FFC2;
+}
+.text-primary5{
+width: 54px;
+height: 120px;
+font-family: 'Lato';
+font-style: italic;
+font-weight: 500;
+font-size: 100px;
+line-height: 120px;
+text-align: center;
+color: #000AFF;
+}
+.text-primary6{
+width: 59px;
+height: 120px;
+font-family: 'Lato';
+font-style: italic;
+font-weight: 500;
+font-size: 100px;
+line-height: 120px;
+text-align: center;
+color: #AD00FF;
+}
+p{
+position: absolute;
+width: 172px;
+height: 24px;
+left: 1148px;
+top: 218px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #FF008A;
+}
+.image1{
+    position: absolute;
+width: 200px;
+height: 317.73px;
+left: 410px;
+top: 197px;
+background: url(images/Goaler\ 1.svg)
+}
+.image2{
+position: absolute;
+width: 200px;
+height: 317.73px;
+left: 765px;
+top: 449px;
+background: url(images/Goaler\ \(1\)\ 1.svg)
+}
+.image3{
+position: absolute;
+width: 200px;
+height: 317.73px;
+left: 210px;
+top: 608px;
+background: url(images/Group\ 1\ 1.svg);
+}
+.icon{
+position: absolute;
+width: 186px;
+height: 55px;
+left: 1150px;
+top: 940px;
+background: url(images/app-store-logo\ 1.svg);
+}
+.goal{
+position: absolute;
+width: 290px;
+height: 191px;
+left: 110px;
+top: 276px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+background: linear-gradient(180deg, #70FF00 0%, #797672 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+ }
+ .goal2{
+position: absolute;
+width: 250px;
+height: 105px;
+left: 999px;
+top: 536px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+background: linear-gradient(180deg, #38FE06 0%, #616261 82.81%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+ }
+ .goal3{
+position: absolute;
+width: 208px;
+height: 94px;
+left: 459px;
+top: 743px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+background: linear-gradient(180deg, #4EFF22 0%, #757575 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+ }
+ .link{
+position: absolute;
+width: 275px;
+height: 82px;
+left: 1111px;
+top: 826px;
+font-family: 'Lora';
+font-style: italic;
+font-weight: 500;
+font-size: 32px;
+line-height: 41px;
+color: #000000;
+ }
+ .link2{
+position: absolute;
+width: 164px;
+height: 24px;
+left: 1161px;
+top: 912px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+background: linear-gradient(180deg, #0A0A0A 0%, #332715 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+ }
